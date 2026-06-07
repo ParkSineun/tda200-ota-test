@@ -1,5 +1,5 @@
 {
-    "fw_version": "3.0.2",
-    "er_irom1_url": "https://github.com/ParkSineun/tda200-ota-test/releases/download/v3.0.2/ER_IROM1_FULL",
-    "er_rom_xip_url": "https://github.com/ParkSineun/tda200-ota-test/releases/download/v3.0.2/ER_ROM_XIP"
+    "fw_version": "3.0.3",
+    "er_irom1_url": "https://github.com/ParkSineun/tda200-ota-test/releases/download/v3.0.3/ER_IROM1_FULL",
+    "er_rom_xip_url": "https://github.com/ParkSineun/tda200-ota-test/releases/download/v3.0.3/ER_ROM_XIP"
 }
